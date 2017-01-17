@@ -1,1 +1,1 @@
-This is the second file to be added in the new project.
+This is the second file which is getting modified to check in the changes in repo.
